@@ -1,5 +1,5 @@
-# Windscreen Wiper Triggered Neural Responses as Causes and Predictors of Driver Drowsiness
-This is the website for paper `Windscreen Wiper Triggered Neural Responses as Causes and Predictors of Driver Drowsiness`.
+# Alertness Monitoring during Human-Computer Interaction
+This is the website for paper `Alertness Monitoring during Human-Computer Interaction`.
 
 ## Acknowledgments
 Parts of this project page were adopted from the [Nerfies](https://nerfies.github.io/) page.
